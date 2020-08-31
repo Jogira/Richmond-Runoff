@@ -18,6 +18,6 @@ a better understanding of the problems you encountered during the developmemnt o
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
 - *Faculty Advisor's Name* - *Department* - Faculty Advisor
 - *Justin Nelson* - *CS* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Lucas Zullo* - *CS* - Student Team Member
 - *Student's Name* - *major* - Student Team Member
 - *Student's Name* - *major* - Student Team Member
