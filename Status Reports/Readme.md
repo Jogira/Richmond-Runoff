@@ -10,8 +10,8 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
 | Project Plan | Overall week by week plan of milestones | | |
-| Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
+| Week 1 Status Report | We planned a meeting with our academic advisor. | We did meet with our advisor. | None |
+| Week 2 Status Report | We planned to meet with our advisor and hopefully our sponsor to ask more questions about the project that we came up with through week 2.| We asked our advisor questions, but the sponsor was not there.| Haven't met sponsor yet.|
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
