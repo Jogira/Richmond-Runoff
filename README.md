@@ -27,8 +27,13 @@ Weekly Report:
 13/10/2020
 
 -Read over the previous semester's respositories to get a better sense of direction.
+
 -Changed the scope of the project to a smaller scale where we simulate rainfall in various settings before trying to use it on a real world model.
+
 -Decided it would be a good to save using a real model of Richmond until later, as it would be too expensive to do normally.
+
 -Got in contact with our mentor and discussed what is to be expected of the project.
+
 -Divided the group into 2 groups of 2: 1 to analyze the code, 1 to gather data and consider aspects of the projects.
+
 -Acquired an ARCgis license for each group member.
