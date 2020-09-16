@@ -25,9 +25,7 @@ a better understanding of the problems you encountered during the developmemnt o
 
 Weekly Report:
 13/10/2020
-Project Members: Jonathan Giraud
-Justin Nelson
-Tanya Ravi
+Project Members: Jonathan Giraud | Justin Nelson | Tanya Ravi
 
 Accomplishments for the week:
 -Read over the previous semester's respositories to get a better sense of direction. -Justin Nelson
