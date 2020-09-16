@@ -23,8 +23,9 @@ a better understanding of the problems you encountered during the developmemnt o
 - *Tanya Ravi* - *CS* - Student Team Member
 
 
-Weekly Report:
-13/10/2020
+<font color="green">Weekly Report:
+13/10/2020 </font>
+
 Project Members: Jonathan Giraud | Justin Nelson | Tanya Ravi
 
 Accomplishments for the week:
