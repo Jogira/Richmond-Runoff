@@ -14,17 +14,13 @@ a better understanding of the problems you encountered during the developmemnt o
 | scr | Source code - create as many subdirectories as needed |
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
-- *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Justin Nelson* - *CS* - Student Team Member
-- *Lucas Zullo* - *CS* - Student Team Member
-- *Jonathan Giraud* - *CS* - Student Team Member
-- *Tanya Ravi* - *CS* - Student Team Member
+- Robert Dahlberg - CS - Faculty Advisor
+- Justin Nelson - CS - Student Team Member
+- Lucas Zullo - CS - Student Team Member
+- Jonathan Giraud - CS - Student Team Member
+- Tanya Ravi - CS - Student Team Member
 
-
-<font color="green">Weekly Report:
-13/10/2020 </font>
+# Weekly Report: 13/10/2020
 
 Project Members: Jonathan Giraud | Justin Nelson | Tanya Ravi
 
