@@ -7,7 +7,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 
 ## 1st Semester
 
-| Document | Tasks | Accomplishments | Issues          |
+| Document | Tasks | Accomplishments | Issues Teasting For Space          |
 |--|---|---|---|
 | Project Plan | Overall week by week plan of milestones | | |
 | Week 1 Status Report | We planned a meeting with our academic advisor. | We did meet with our advisor. | None |
