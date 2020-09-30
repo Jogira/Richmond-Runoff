@@ -13,7 +13,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 1 Status Report | We planned a meeting with our academic advisor. | We did meet with our advisor. | None | |
 | Week 2 Status Report | We planned to meet with our advisor and hopefully our sponsor to ask more questions about the project that we came up with through week 2.| We asked our advisor questions, but the sponsor was not there.| Haven't met sponsor yet.| |
 | Week 3 Status Report | <ul><li>Requirements document</li><li>Project proposal</li><li>Continue examining previous years code</li><li>Contact a professor from JMU</li><li>Continue looking at data sources</li></ul> | <ul><li>JN - Looked through the second years code and took notes on each of the files to better understand what has been done.</li><li>LZ - Added a data source</li><li>TR - Added some data sources</li></ul> | <ul><li>Still have not met with sponsor</li></ul>| |
-| Week 4 Status Report | <ul><li>Run last years code</li><li>Learn ArcGIS</li></ul>| <ul><li>Some member's have ArcGIS running</li></ul> | <ul><li>Run last years code</li><li>Learn ArcGIS</li></ul> |
+| Week 4 Status Report | <ul><li>Run last years code</li><li>Learn ArcGIS</li></ul>| <ul><li>Some member's have ArcGIS running</li></ul> | <ul><li>Still not met with sponsor</li></ul> |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
