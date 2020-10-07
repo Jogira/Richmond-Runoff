@@ -16,7 +16,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 4 Status Report | <ul><li>Run last years code</li><li>Learn ArcGIS</li></ul>| <ul><li>Some member's have ArcGIS running</li></ul> | <ul><li>Still not met with sponsor</li><li>Unsure of what softwares last year's group used to run code, waiting on reply</li></ul> |
 | Week 5 Status Report | <ul><li>Make sure everyone can run ArcGIS</li><li>Continue learning ArcGIS</li><li>Ask last year's group what software they used</li><li>Meet the sponsor, we were told that they have been in contact</li></ul>| <ul><li>All members have ArcGIS running</li><li>Given another group's repo and can see how they used PyQGIS and use it ourselves</li><li>We have the option to share knowledge about ArcGIS with another group</li></ul>| <ul><li>No word on what last year's group did yet</li></ul>|
 | Week 6 Status Report | <ul><li>Run "Newport News" code to learn more about ArcGIS</li><li>Learn about PyQGIS</li></ul>| <ul><li>Last year's code downloaded and going to contact last year's group to understand how to run their code</li></ul>| <ul><li>Unable to run last year's code</li></ul>|
-| Week 7 Status Report | | | |
+| Week 7 Status Report | <ul><li>Continue learning how to use GIS</li><li>Contact last year's group to understand how to run their code</li></ul>| | |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
