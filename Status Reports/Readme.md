@@ -17,8 +17,8 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 5 Status Report | <ul><li>Make sure everyone can run ArcGIS</li><li>Continue learning ArcGIS</li><li>Ask last year's group what software they used</li><li>Meet the sponsor, we were told that they have been in contact</li></ul>| <ul><li>All members have ArcGIS running</li><li>Given another group's repo and can see how they used PyQGIS and use it ourselves</li><li>We have the option to share knowledge about ArcGIS with another group</li></ul>| <ul><li>No word on what last year's group did yet</li></ul>|
 | Week 6 Status Report | <ul><li>Run "Newport News" code to learn more about ArcGIS</li><li>Learn about PyQGIS</li></ul>| <ul><li>Last year's code downloaded and going to contact last year's group to understand how to run their code</li></ul>| <ul><li>Unable to run last year's code</li></ul>|
 | Week 7 Status Report | <ul><li>Continue learning how to use GIS</li><li>Contact last year's group to understand how to run their code</li></ul>| <ul><li>Able to run the code from last year</li><li>Now understand how their code works so we can better test it.</li><li>Most members are able to run the code on their machine.</li></ul>| |
-| Week 8 Status Report | <ul><li>Experiment with the code to better understand the functionality and how we can use it for our needs.</li></ul>| | |
-| Week 9 Status Report | | | |
+| Week 8 Status Report | <ul><li>Experiment with the code to better understand the functionality and how we can use it for our needs.</li></ul>| <ul><li>Learned how the group placed shapes on their map</li><li>Planned to meet with another group to learn about ArcGIS and MapBox to see their uses</li></ul>| |
+| Week 9 Status Report | <ul><li>Look into how to turn the shapes on the map into actual areas with data values.</li><li>Look into MapBox and see if it can be used in a way that suits our needs</li><li>See how the shapes constructors work to see if we can add values to them</li></ul>| | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
