@@ -3,6 +3,7 @@
 ## *Short Project Description*
 
 The webapp version of the map may be viewed here:
+
 https://vcu.maps.arcgis.com/apps/webappviewer/index.html?id=18ec9de92d53400a9e1fbf9b49c7879b
 
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
