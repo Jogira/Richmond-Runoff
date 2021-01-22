@@ -1,7 +1,9 @@
 # Notes and Research Folder
 
 - Description of any other tools, technologies and APIs needed. 
+
 Only ARCgis Pro, ArcPy API, and Jupyter Notebook are required. Jupytr Notebook comes installed with ARCgis Pro.
+
 - Links to reference guides, or examples.
 
 https://learn.arcgis.com/en/projects/find-areas-at-risk-of-flooding-in-a-cloudburst/
