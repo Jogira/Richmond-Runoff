@@ -1,15 +1,14 @@
-# *Your Project Description*
-## *Sponsoring Company or Organization*
-## *Short Project Description*
+# The goal of this project is the to make an app that will show the areas in Richmond that will be flooded after set amounts of rainfall. The webapp will let the user choose and compare different rainfall levels. The user will be able to zoom in or pan around Richmond to get a closer look at what buildings and streets will be flooded. The webapp will also allow for toggling on and off topographical views of the city. This project utilizes ARCgis Pro and Jupyter Notebook.
 
-The webapp version of the map may be viewed here:
+## Sponsoring Organization: Virginia Science Museum 
+
+## Complete a model simulating rain run-off in Richmond from last year's Capstone.
+
+The completed webapp version of the map may be viewed here:
 
 https://vcu.maps.arcgis.com/apps/webappviewer/index.html?id=18ec9de92d53400a9e1fbf9b49c7879b
 
-The directory structure in this GitHub is to allow the project to have all its resources self-contained.
-Open Source software should not just be a repository of code.  There are a number of directories to help you and others that will 
-follow in your foot steps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the developmemnt of this project.
+Click the 3 horizontal lines at the top right to view the map legend. Alternatively, click the stack of squares at the top right to toggle on or off different levels of rainfall simulations or the elevation map. The searchbar at the top left also allows looking up specific buildings or streets instead of panning around.
 
 | Folder | Description |
 |---|---|
