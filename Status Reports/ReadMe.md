@@ -25,7 +25,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 13 Status Report |  Get multiple flood simulations for varying rainfall.| Masked LiDAR data to just Richmond. | First flood simulation is not as accurate as we'd like. Small depressions in the landscape are not considered. |
 | Week 14 Status Report | Clean up the map now that simulation data is acquired. | Got multiple levels of rainfall data. | -None. | Have all of the data gathered for flood simulations.
 | Week 15 Status Report | Turn the data gathered from ARCgis into a webapp to be viewed from anywhere with toggleable simulation layers. | Map is cleaned up and ready to be exported to the web. | -None. |
-| Week 16 Status Report | Potentially bugfixing. No bugs are currently known.| Transferred the data gathered into a webapp. | -None. | The project is complete. 
+| Week 16 Status Report | Potentially bugfixing. No bugs are currently known.| Transferred the data gathered into a webapp. | -None. | The project is completed. 
 
 ## 2nd Semester
 
