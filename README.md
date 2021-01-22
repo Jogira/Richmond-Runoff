@@ -12,12 +12,12 @@ Click the 3 horizontal lines at the top right to view the map legend. Alternativ
 
 | Folder | Description |
 |---|---|
-| Documentation |  All documentation the project team has created to describe the architecture, design, installation and configuration of the peoject. |
-| Status Reports | Project management documentation - weekly reports, milestones, etc. |
-| Flood | All of the source code and information needed to set up the steps for running the simulations in ARCgis Pro. |
 | ARCapi | Jupyter Notebook setup. |
+| Documentation |  All documentation the project team has created to describe the architecture, design, installation and configuration of the peoject. |
+| Flood | All of the source code and information needed to set up the steps for running the simulations in ARCgis Pro. |
 | Notes and Research | Relevant information useful to understand the tools and techniques used in the project. |
 | Richmond Data | The gathered data about Richmond required to set up the simulations and the data from the simulations. This includes Richmond's elevation data, along with its border, buildings, and countour lines, and flooded areas. |
+| Status Reports | Project management documentation - weekly reports, milestones, etc. |
 
 
 ## Project Team
