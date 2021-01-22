@@ -1,0 +1,12 @@
+The entire repository must be downloaded and placed within the same folder. Launch ARCgis Pro, 
+and when prompted to start a new project, instead navigate to the "Flood" folder and then click the "Flood.aprx" file.
+
+This will launch the project in ARCgis. Tick on or off the boxes on the lefthand side of the map to toggle the layers of each flood simulation. 
+If any additional changes are made to the map and need to be shown on the website, go to the "Share" tab and click "Web map."
+Handle any errors, then click "Publish." Visit this website to further change the map and style it. 
+https://doc.arcgis.com/en/web-appbuilder/
+
+To replicate this process, gather the LiDAR data (From sites like USGS or extract it yourself using ARCgis/ARCpy) for a chunk of land you want to run flood simulations on. 
+Then, using the polygon tool, draw a shape that outlines the area you would like to conduct tests on.
+After the shape has been completed, mask that shape with the LiDAR chunk to limit the LiDAR data to that area. 
+Then using ARCgis's toolkits, use the raster calculator under geoprocessing to indicate what areas are above or below a certain elevation, relative to the nearest watershed. 
